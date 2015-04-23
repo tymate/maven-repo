@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.pdfclown</groupId>
+  <artifactId>pdfclown</artifactId>
+  <versioning>
+    <release>0.2.0-HEAD</release>
+    <versions>
+      <version>0.2.0-HEAD</version>
+    </versions>
+    <lastUpdated>20150423083519</lastUpdated>
+  </versioning>
+</metadata>
