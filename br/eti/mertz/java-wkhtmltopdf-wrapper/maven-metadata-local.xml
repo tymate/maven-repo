@@ -3,11 +3,12 @@
   <groupId>br.eti.mertz</groupId>
   <artifactId>java-wkhtmltopdf-wrapper</artifactId>
   <versioning>
-    <release>0.0.3-SNAPHOST</release>
+    <release>0.0.3-SNAPSHOST</release>
     <versions>
       <version>0.0.2-SNAPSHOT</version>
       <version>0.0.3-SNAPHOST</version>
+      <version>0.0.3-SNAPSHOST</version>
     </versions>
-    <lastUpdated>20151021091659</lastUpdated>
+    <lastUpdated>20151021092521</lastUpdated>
   </versioning>
 </metadata>
